@@ -1,0 +1,12 @@
+
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(º¯Â“8ÈÛ‰Œı.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(û•Ğ8ã¢ÃŒı.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ºêßÁıÿÿÿÿ8àã¶‹ı.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÕÛâøÿÿÿÿ8‰šÜ‹ı.
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8àã¶‹ı.
+]
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8àã¶‹ı.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡â«‹ı.
+T	java:S106""9Replace this use of System.out or System.err by a logger.(ê‚Êl8˜Œı.

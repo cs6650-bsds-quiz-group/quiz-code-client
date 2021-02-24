@@ -1,0 +1,6 @@
+
+a
+java:S1128"DRemove this unused import 'org.apache.http.client.methods.HttpPost'.(ßó¢Ç8¡È‹ı.
+:
+java:S2119!"Save and re-use this "Random".(¼İÅf8“ßá‹ı.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Å‚™Éÿÿÿÿÿ8ÁûÀŠı.
